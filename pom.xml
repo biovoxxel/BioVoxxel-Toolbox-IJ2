@@ -13,7 +13,7 @@
 	</parent>
 
 	<groupId>de.biovoxxel</groupId>
-	<artifactId>toolbox.ij2</artifactId>
+	<artifactId>toolbox_ij2</artifactId>
 	<version>0.1.0-SNAPSHOT</version>
 
 	<name>BioVoxxel Toolbox IJ2</name>
